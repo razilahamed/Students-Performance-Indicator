@@ -120,6 +120,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.artifacts
+notebook/EDA on Student Performance.ipynb
 .env
 .venv
 env/
